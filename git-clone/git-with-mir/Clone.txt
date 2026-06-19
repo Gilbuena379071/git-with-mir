@@ -1,0 +1,3 @@
+We will be cloning this github repository into our local repository.
+
+Let's tweak it a lil.
